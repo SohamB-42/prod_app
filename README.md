@@ -21,7 +21,7 @@ This project is a **multi-agent AI system** designed to manage tasks, schedules,
 
 ## 🧠 System Architecture
 
-User → API → Primary Agent → Sub Agents → Tools → Database
+User -> API -> Primary Agent -> Sub Agents -> Tools -> Database
 
 ### Agents:
 
