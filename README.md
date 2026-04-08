@@ -104,7 +104,7 @@ API Documentation:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/SohamB-42/prod_app
 cd prod_app
 ```
 
